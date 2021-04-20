@@ -1,13 +1,17 @@
 <h1>Pré-Processamento de Dados</h1>
+
+Conteúdo:
 <ul>
   <li><a href="#introducao">Introdução e Definições</a></li>
-  <li><a href="">Carregamento de Dados</a></li>
-  <li><a href="">Tipos de Atributos</a></li>
-  <li><a href="">Escalonamento de Atributos</a></li>
-  <li><a href="">Avaliação de Algoritmos</a></li>
-  <li><a href="">Treinamento e Teste</a></li>
+  <li><a href="#carregamento">Carregamento de Dados</a></li>
+  <li><a href="#tipo-atributos">Tipos de Atributos</a></li>
+  <li><a href="#escalonamento">Escalonamento de Atributos</a></li>
+  <li><a href="#avaliacao">Avaliação de Algoritmos</a></li>
+  <li><a href="#treinamento-teste">Treinamento e Teste</a></li>
   <li><a href="#referencias">Referências</a></li>
 </ul>
+
+
 <h2 name="introducao">Introdução e Definições</h2>
 <p align="justify">O pré-processamento ou <em>data wrangling</em> é um termo utilizado para descrever o processo de <strong>transformação</strong> de dados <strong>brutos</strong> em um formato <strong>limpo</strong> e <strong>organizado</strong>, pronto para uso.</p>
 <p align="justify">Este processo é um passo importante antes de aplicar os algoritmos de <em>Machine Learning</em> e interfere diretamente no resultado dos algoritmos, tanto de forma positiva quanto de forma negativa.</p>
@@ -18,6 +22,17 @@
 
 <p align="justify">Para a criação de um <em>data frame</em>, existem inúmeras bibliotecas, mas a mais utilizada sem dúvidas é a biblioteca <strong>Pandas</strong>. Esta biblioteca oferece uma infinidade de formas para criar um <em>data frame</em> porém, no mundo real, a criação de um <em>data frame</em> <strong>vazio</strong> para <strong>adicionar</strong> os valores um a um não acontece ou é pouco usual.</p>
 <p align="justify">Geralmente, o <em>data frame</em> é <strong>carregado</strong> de outras fontes, como um arquivo <strong>CSV</strong> ou de um <strong>banco de dados</strong> (<em>database</em>).</p>
+
+
+<h2 name="carregamento">Carregamento de Dados</h2>
+
+<h2 name="tipo-atributos">Tipo de Atributos</h2>
+
+<h2 name="escalonamento">Escalonamento de Atributos</h2>
+
+<h2 name="avaliacao">Avaliação de Algoritmos</h2>
+
+<h2 name="treinamento-teste">Treinamento e Teste</h2>
 
 
 <h2 name="referencias">Referências</h2>
