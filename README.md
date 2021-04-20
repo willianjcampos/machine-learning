@@ -12,6 +12,7 @@
   <li><a href="#referencias">Referências</a></li>
 </ol>
 
+<br />
 <h2 name="sobre">1. Sobre os Diretórios e Estrutura</h2>
 <p align="justify">Os arquivos aqui presentes são resultados de estudos realizados através do curso <strong>Machine Learning e Data Science com Python</strong>, ministrado pelo Professor Dr. <strong>Jones Granatyr</strong> pela plataforma <strong>Udemy</strong>.</p>
 <p align="justify">Além disso, pelo carater <strong>acadêmico</strong>, em cada um dos diretórios, com exceção do diretório <strong>arquivos</strong>, será dada uma pequena introdução com algumas informações acerca do assunto abordado e referências para abordagens mais detalhadas.</p>
@@ -26,20 +27,35 @@
 <h3>1.3. b_classification</h3>
 <p align="justify">Nesta diretório, encontram-se os arquivos relacionados ao estudo de <strong>Classificação de Dados</strong>, dados estes localizados no diretório <strong>arquivos</strong>. Além disso, neste diretório (<em>b_classification</em>) encontram-se mais informações sobre o assunto e referências para estudos mais detalhados.</p>
 
+<br />
 <h2 name="visao-geral">2. Visão Geral</h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="ic-ml-ds">3. Inteligência Computacional, <em>Machine Learning</em> e <em>Data Science</em></h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="definicoes">4. Definições e Terminologia</h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="tipos-atributos">5. Tipos de Atributos</h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="preditivo-descritivo">6. Métodos Preditivos e Descritivos</h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="etapas-ml">7. Etapas de <em>Machine Learning</em></h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="tipos-ml">8. Tipos de Aprendizagem de Máquina</em></h2>
+<p align="justify">Parágrafo.</p>
 
+<br />
 <h2 name="referencias">9. Referências</h2>
 <ul>
   <li align="justify">ALPAYDIN, Ethem. <strong>Introduction to Machine Learning</strong>. 4 ed. Cambridge: MIT, 2020.</li>
