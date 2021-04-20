@@ -1,0 +1,2 @@
+<h1>Machine Learning e Data Science em Python</h1>
+<div>Os arquivos aqui presentes são resultados de estudos realizados através do curso Machine Learning e Data Science com Python, ministrado pelo Professor Dr. Jones Granatyr pela plataforma Udemy.</div>
