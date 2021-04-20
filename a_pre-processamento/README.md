@@ -9,7 +9,7 @@
   <li><a href="#referencias">Referências</a></li>
 </ul>
 <h2 name="introducao">Introdução e Definições</h2>
-<p align="justify" style="text-indent:20px">O pré-processamento ou <em>data wrangling</em> é um termo utilizado para descrever o processo de <strong>transformação</strong> de dados <strong>brutos</strong> em um formato <strong>limpo</strong> e <strong>organizado</strong>, pronto para uso.</p>
+<p align="justify">O pré-processamento ou <em>data wrangling</em> é um termo utilizado para descrever o processo de <strong>transformação</strong> de dados <strong>brutos</strong> em um formato <strong>limpo</strong> e <strong>organizado</strong>, pronto para uso.</p>
 <p align="justify">Este processo é um passo importante antes de aplicar os algoritmos de <em>Machine Learning</em> e interfere diretamente no resultado dos algoritmos, tanto de forma positiva quanto de forma negativa.</p>
 
 <br />
@@ -22,8 +22,8 @@
 
 <h2 name="referencias">Referências</h2>
 <ul>
-  <li>ALBON, Chris. Python Machine Learning Cookbook: Practical Solutions from preprocessing to Deep Learning. Sebastopol: O’Reilly, 2018. p. 23-60.</li>
-  <li>HARRISON, Matt. Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python. São Paulo: Novatec, 2020.</li>
-  <li>MCKINNEY, Wes. Python para Análise de Dados: Tratamento de Dados com Pandas, Numpy e IPython. São Paulo: Novatec, 2018.</li>
-  <li>RASCHKA, Sebastian. Python Machine Learning. 1 ed. Birmingham: Packt Publishing, 2016. p. 109-144.</li>
+  <li align="justify">ALBON, Chris. <strong>Python Machine Learning Cookbook</strong>: <em>Practical Solutions from preprocessing to Deep Learning</em>. Sebastopol: O’Reilly, 2018. p. 23-60.</li>
+  <li align="justify">HARRISON, Matt. <strong>Machine Learning – Guia de Referência Rápida</strong>: <em>Trabalhando com dados estruturados em Python</em>. São Paulo: Novatec, 2020.</li>
+  <li align="justify">MCKINNEY, Wes. <strong>Python para Análise de Dados</strong>: <em>Tratamento de Dados com Pandas, Numpy e IPython</em>. São Paulo: Novatec, 2018.</li>
+  <li align="justify">RASCHKA, Sebastian. <strong>Python Machine Learning</strong>. 1 ed. Birmingham: Packt Publishing, 2016. p. 109-144.</li>
 </ul>
