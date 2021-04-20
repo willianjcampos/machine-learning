@@ -1,3 +1,10 @@
+<head>
+<style type="text/css">
+  p{text-align: justify;}  
+</style>
+</head>
+
+<body>
 <h1>Pré-Processamento de Dados</h1>
 <ul>
   <li><a href="#introducao">Introdução e Definições</a></li>
@@ -27,3 +34,4 @@
   <li>MCKINNEY, Wes. Python para Análise de Dados: Tratamento de Dados com Pandas, Numpy e IPython. São Paulo: Novatec, 2018.</li>
   <li>RASCHKA, Sebastian. Python Machine Learning. 1 ed. Birmingham: Packt Publishing, 2016. p. 109-144.</li>
 </ul>
+</body>
