@@ -1,5 +1,6 @@
 <h1>Machine Learning e Data Science em Python</h1>
 
+<br />
 <ol>
   <li><a href="#sobre">Sobre os Diretórios e Estrutura</a></li>
   <li><a href="#visao-geral">Visão Geral</a></li>
