@@ -4,7 +4,7 @@
 <p align="justify">Abaixo encontram-se os principais diretórios e seus respectivos assuntos.</p>
 
 <h2>a_pre-processamento</h2>
-<p align="justify">Nesta pasta, encontram-se os arquivos relacionados ao estudo acerca do <strong>Pré-Processamento</strong> de Dados, localizados no diretório <strong>arquivos</strong>. Além disso, neste diretório encontram-se mais informações sobre o assunto e referências para estudos mais detalhados.</p>
+<p align="justify">Nesta pasta, encontram-se os arquivos relacionados ao estudo acerca do <strong>Pré-Processamento de Dados</strong>, dados estes localizados no diretório <strong>arquivos</strong>. Além disso, neste diretório (<em>a_pre-processamento</em>) encontram-se mais informações sobre o assunto e referências para estudos mais detalhados.</p>
 
 <h2>b_classification</h2>
-<p align="justify">Nesta pasta, encontram-se os arquivos relacionados ao estudo acerca do processo de Classificação dos Dados, além de mais informações sobre o assunto.</p>
+<p align="justify">Nesta pasta, encontram-se os arquivos relacionados ao estudo de <strong>Classificação de Dados</strong>, dados estes localizados no diretório <strong>arquivos</strong>. Além disso, neste diretório (<em>b_classification</em>) encontram-se mais informações sobre o assunto e referências para estudos mais detalhados.</p>
