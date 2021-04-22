@@ -55,7 +55,7 @@
 	<li align="justify"><strong>Categóricos</strong>: são representados pelos demais tipos dados, geralmente do tipo string e expressam categorias ou tipos.</li>
 </ul>
 		</td>
-		<td><p align="center"><img src="img/atributos.png" alt="Atributo Numérico e Atributo Categórico" width="100%" /></p></td>
+		<td><img src="img/atributos.png" alt="Atributo Numérico e Atributo Categórico" width="100%" /></td>
 	</tr>
 </table>
 
@@ -73,7 +73,7 @@
 				<li align="justify"><strong>Discreto</strong>: representam os dados numéricos inteiros, ou seja, do tipo int. Geralmente, estão relacionados a contagem de objetos.</li>
 			</ul>
 		</td>
-		<td><p align="center"><img src="img/atributo-numerico.png" alt="Atributo Numérico" width="100%" /></p></td>
+		<td><img src="img/atributo-numerico.png" alt="Atributo Numérico" width="100%" /></td>
 	</tr>
 </table>
 
@@ -92,7 +92,7 @@
 	<li align="justify"><strong>Ordinal</strong>: representam os dados do tipo string que são categorizados em uma ordem específica. Podemos citar como exemplo os tamanhos P, M e G, onde, P > M > G, ou seja, expressam uma ordem.</li>
 </ul>
 		</td>
-		<td><p align="center"><img src="img/atributo-categorico.png" alt="Atributo Categórico" width="100%" /></p></td>
+		<td><img src="img/atributo-categorico.png" alt="Atributo Categórico" width="100%" /></td>
 	</tr>
 </table>
 
