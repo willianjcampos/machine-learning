@@ -42,7 +42,30 @@
 
 <br />
 <h2 name="tipos-atributos">5. Tipos de Atributos</h2>
-<p align="justify">Parágrafo.</p>
+<p align="justify">Existem <strong>métodos</strong> ou <strong>algoritmos</strong> que usam determinados <strong>tipos</strong> de <strong>variáveis</strong> ou <strong>atributos</strong>. Alguns algoritmos não trabalham com dados numéricos, como por exemplo, os algoritmos de Regras de Associação. Basicamente, existem 2 (dois) tipos principais de <strong>atributos</strong>:</p>
+
+<ul>
+	<li align="justify"><strong>Numéricos</strong>: são representados por dados do tipo numérico, geralmente do tipo int ou float, porém, nem todo número faz parte desta categoria.</li>
+	<li align="justify"><strong>Categóricos</strong>: são representados pelos demais tipos dados, geralmente do tipo string e expressam categorias ou tipos.</li>
+</ul>
+
+<p align="justify">Os atributos do tipo <strong>NUMÉRICO</strong>, se dividem em outros 2 (dois) tipos:</p>
+<ul>
+	<li align="justify"><strong>Contínuo</strong>: representam os dados numéricos reais, ou seja, do tipo float. Podemos citar como exemplo a medição da altura, peso ou temperatura.</li>
+	<li align="justify"><strong>Discreto</strong>: representam os dados numéricos inteiros, ou seja, do tipo int. Geralmente, estão relacionados a contagem de objetos.</li>
+</ul>
+
+
+
+<p align="justify">Já os atributos do tipo <strong>CATEGÓRICO</strong>, se dividem em outros 2 (dois) tipos:</p>
+<ul>
+	<li align="justify"><strong>Nominal</strong>: representam os dados do tipo string que não expressam uma ordem. Podemos citar como exemplo a cor dos olhos, gênero, ID e nome.</li>
+	<li align="justify"><strong>Ordinal</strong>: representam os dados do tipo string que são categorizados em uma ordem específica. Podemos citar como exemplo os tamanhos P, M e G, onde, P > M > G, ou seja, expressam uma ordem.</li>
+</ul>
+
+
+
+<p align="justify">Assim teremos o seguinte esquema relacionado aos tipos de atributos:</p>
 
 <br />
 <h2 name="preditivo-descritivo">6. Métodos Preditivos e Descritivos</h2>
