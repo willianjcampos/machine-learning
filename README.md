@@ -55,7 +55,7 @@
 	<li align="justify"><strong>Categóricos</strong>: são representados pelos demais tipos dados, geralmente do tipo string e expressam categorias ou tipos.</li>
 </ul>
 		</td>
-		<td><img src="img/atributos.png" alt="Atributo Numérico e Atributo Categórico" width="100%" /></td>
+		<td style="padding: 0 !important"><img src="img/atributos.png" alt="Atributo Numérico e Atributo Categórico" width="100%" /></td>
 	</tr>
 </table>
 
