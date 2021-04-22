@@ -43,7 +43,7 @@
 
 <p align="justify">Porém, algumas <strong>tarefas</strong> do dia-a-dia, que são consideradas <strong>simples</strong>, em nível <strong>computacional</strong> torna-se <strong>complexo</strong> o desenvolvimento de <strong>programas</strong>. Podemos citar como exemplo problemas relacionados ao <strong>reconhecimento de pessoas</strong> através <strong>rosto</strong> ou da <strong>fala</strong>. Que <strong>características</strong> dos rostos ou da fala serão <strong>consideradas</strong>? O que fazer para diferentes <strong>expressões faciais</strong> de uma <em>mesma pessoa</em>? E quando há <strong>alterações</strong> como o uso de <em>óculos</em> ou <em>bigode</em>, <em>cortes de cabelo</em>, <em>mudanças na voz</em> por gripe ou estado de espírito?</p>
 
-<p align="justify">Nós, seres humanos, fazemos este reconhecimento por meio do <strong>reconhecimento de padrões</strong>, onde <strong>aprendemos</strong> o que devemos observar em um <strong>rosto</strong> ou na <strong>fala</strong> para conseguir <strong>identificar</strong> pessoas, e para isso, necessitamos de vários <strong>exemplos</strong> do <strong>rostos</strong> e/ou <strong>fala</strong> com uma <strong>identificação clara</strong>.</p>
+<p align="justify">Nós, seres humanos, fazemos este reconhecimento por meio do <strong>reconhecimento de padrões</strong>, onde <strong>aprendemos</strong> o que devemos observar em um <strong>rosto</strong> ou na <strong>fala</strong> para conseguir <strong>identificar</strong> pessoas, e para isso, necessitamos de vários <strong>exemplos</strong> do <strong>rosto</strong> e/ou <strong>fala</strong> com uma <strong>identificação clara</strong>.</p>
 
 <p align="justify">Além do problema relacionado ao reconhecimento de pessoas, podemos levar em consideração que, um bom <strong>médico</strong> consegue, dado o <strong>conjunto de sintomas</strong> e do <strong>resultado</strong> de determinados <strong>exames clínicos</strong>, consegue <strong>diagnosticar</strong> se um paciente está com problemas de saúde. Para tal, o médico utiliza o <strong>conhecimento</strong> adquirido durante sua <strong>formação</strong> e <strong>experiência</strong> proveniente do exercício da <strong>profissão</strong>. Levando estas informações em consideração, como <strong>desenvolver</strong> um <strong>programa</strong> que, dado um <strong>conjunto de sintomas</strong> e os <strong>resultados</strong> dos <strong>exames clínicos</strong>, apresente um <strong>diagnóstico</strong> que seja tão <strong>bom</strong> e <strong>preciso</strong> quanto o de um <strong>médico experiente</strong>?</p>
 
@@ -58,7 +58,13 @@
 
 <br />
 <h2 name="ic-ml-ds">3. Inteligência Computacional, <em>Machine Learning</em> e <em>Data Science</em></h2>
-<p align="justify">Parágrafo.</p>
+<p align="justify">A <strong>Inteligência Computacional</strong> ou <strong>Inteligência Artificial</strong> (IA) é um campo pertencente a <em>ciência</em> e da <em>engenharia</em> que surgiu após a <strong>Segunda Guerra Mundial </strong>e é uma <strong>ramificação</strong> da <strong>Ciência da Computação</strong>.</p>
+
+<p align="justify">O termo <strong>Inteligência</strong> pode ser definido como a capacidade mental de <em>raciocinar</em>, <em>planejar</em>, <em>resolver problemas</em> e <em>aprender</em>, ao passo de que <strong>Inteligência Computacional</strong> é o ramo da Ciência da Computação que lida com a automação do pensamento e comportamento inteligente.</p>
+
+<p align="justify">Um dos primeiros métodos relacionados a verificação de inteligência em um sistema computacional foi o chamado <strong>Teste de Turing</strong>, conhecido como Jogo da Imitação (<em>Imitation Game</em>). Seu objetivo é <strong>avaliar</strong> se um <em>computador</em> ou <em>programa</em> é <strong>inteligente</strong>. De forma resumida, o teste consiste em um indivíduo (<strong>C</strong>) tenta <strong>distinguir</strong> quem enviou a mensagem: se foi um computador (<strong>A</strong>) ou um ser humano (<strong>B</strong>), conforme mostra a imagem abaixo.</p>
+
+<p align="center"><img src="img/teste-turin.jpg"></p>
 
 
 
