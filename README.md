@@ -64,7 +64,7 @@
 
 <p align="justify">Um dos primeiros métodos relacionados a verificação de inteligência em um sistema computacional foi o chamado <strong>Teste de Turing</strong>, conhecido como Jogo da Imitação (<em>Imitation Game</em>). Seu objetivo é <strong>avaliar</strong> se um <em>computador</em> ou <em>programa</em> é <strong>inteligente</strong>. De forma resumida, o teste consiste em um indivíduo (<strong>C</strong>) tenta <strong>distinguir</strong> quem enviou a mensagem: se foi um computador (<strong>A</strong>) ou um ser humano (<strong>B</strong>), conforme mostra a imagem abaixo.</p>
 
-<p align="center"><img src="img/teste-turin.jpg"></p>
+<p align="center"><img src="img/teste-de-turing.jpg" alt="Teste de Turing" width="300" /></p>
 
 
 
