@@ -1,5 +1,6 @@
-<h1>Machine Learning e Data Science em Python</h1>
-
+<p align="center">
+  <img src="img/Machine-Learning.png" alt="Machine Learning e Data Science em Python" />
+</p>
 <br />
 <ol>
   <li><a href="#sobre">Sobre os Diretórios e Estrutura</a></li>
