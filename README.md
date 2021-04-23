@@ -106,9 +106,48 @@
 
 
 
+
+<br />
+<h3>Aplicações</h3>
+<p align="justify">Existem várias aplicações relacionadas a Machine Learning e Data Science, podemos citar, por exemplo:</p>
+
+<ul>
+  <li align="justify">Detecção e Reconhecimento Facial: utilizado, por exemplo, em Sistemas de Segurança. Aplicativo do Google Fotos para agrupar fotografias por faces e facilitar o compartilhamento das fotos.</li>
+  <li align="justify">Entretenimento: Jogos como o Kinect da Microsoft para a captura e sincronização dos movimentos com o que é apresentado na tela. Óculos de Realidade Aumentada. (News) IA recria fases de Super Mario.</li>
+  <li align="justify">Robótica: Robôs humanoides do Google que aprendem a andar e pegar objetos. Carros Autônomos.</li>
+  <li align="justify">Saúde: Medicamentos, cura para doenças, detecção de doenças ou predição de doenças. (News) IA detecta Alzheimer 10 anos antes dos primeiros sintomas.</li>
+  <li align="justify">Sistemas de Recomendação: Utilizados pela Netflix, Spotfy e sites de encontro como o eHarmony; Sites de compra para a recomendação de produtos (Amazon).</li>
+  <li align="justify">Anúncios personalizados: Utiliza dados para exibir anúncios de acordo com as preferências do usuário. Recomendação de Produtos ou Pessoas. Facebook Ads.</li>
+  <li align="justify">Sistemas de Busca: Relaciona as palavras buscadas com os assuntos. Utilizado, por exemplo, pela Google.</li>
+  <li align="justify">Artes: Criação de Pinturas e Poemas.</li>
+  <li align="justify">Detecção de Malware: (News) Google usa Inteligência Artificial para detectar vírus na PlayStore.</li>
+</ul>
+
+
 <br />
 <h2 name="definicoes">4. Definições e Terminologia</h2>
-<p align="justify">Parágrafo.</p>
+<p align="justify">Como já foi visto anteriormente, existem várias áreas relacionadas a Inteligência Computacional. Abaixo, citaremos apenas algumas áreas e termos utilizados.</p>
+
+<ul>
+  <li align="justify">Inteligência Artificial (IA) / Artificial Intelligence (AI): Área da Ciência da Computação responsável pelo desenvolvimento de sistemas que simulem a capacidade humana de resolver problemas. Englobam todas as tecnologias e é o termo mais geral.</li>
+  <li align="justify">Inteligência Computacional / Computational Intelligence: Candidato para substituir o termo IA, pois este termo (IA) não diz nada referindo a computadores. Geralmente, envolve Redes Neurais, Computação Evolucionária (Algoritmos Genéticos) e Lógica Fuzzy (Nebulosa). Além disso, para trabalhos na IEEE são apenas estes temas que são aceitos como sendo parte da Inteligência Computacional.</li>
+  <li align="justify">Sistemas Especialistas / Expert System: Um dos primeiros esforços da IA em criar sistemas que tem como base o conhecimento de um especialista humano, ou seja, seu objetivo é construir sistemas com base no conhecimento de pessoas que são especialistas na área. Para isso, utiliza-se o conhecimento destes especialistas e insere no sistema.</li>
+  <li align="justify">Visão Computacional / Computer Vision: Simula o sentido da visão humana, sendo capaz de detectar ou identificar pessoas, animais e/ou objetos. Estes sistemas geralmente são usados na área de segurança e robótica.</li>
+  <li align="justify">Aprendizagem de Máquina / Machine Learning: Baseado no aprendizado a partir de uma base de dados.</li>
+  <li align="justify">Processamento de Linguagem Natural (PLN) / Natural Language Processing (NLP): Envolve basicamente o computador compreender a semântica da frase, tanto escrita como falada (Text-To-Speak).</li>
+  <li align="justify">Algoritmos Genéticos: Conjunto de algoritmos ou técnicas computacionais de otimização meta-heurístico que se baseiam nos princípios evolutivos da Teoria Sintética da Evolução (Neodarwinismo) de Charles Darwin e Gregor Mendel.</li>
+  <li align="justify">Sistemas Multiagente: Subárea da Inteligência Artificial Distribuída que estuda agentes autônomos.</li>
+  <li align="justify">Mineração de Dados / Data Mining: Extrair informações de uma base de dados, usando técnicas de Machine Learning; Aplicação prática da Machine Learning.</li>
+  <li align="justify">Lógica de Fuzzy (Lógica Nebulosa): Usada principalmente com aplicações na área industrial. Seu objetivo é modelar modos de raciocínio aproximados ao invés de precisos.</li>
+  <li align="justify">Raciocínio Baseado em Caos: Abordagem que busca resolver novos problemas adaptando soluções utilizadas para resolver problemas anteriores.</li>
+  <li align="justify">Redes Neurais Artificiais (RNA): Tipo de Machine Learning que geralmente está relacionado com Deep Learning.</li>
+  <li align="justify">Aprendizagem Profunda / Deep Learning: Trabalha exclusivamente com Redes Neurais com várias camadas. Geralmente, utiliza uma grande quantidade de dados, sendo necessário processadores mais potentes.</li>
+  <li align="justify">Big Data: Imenso volume de dados utilizados em algoritmos de Machine Learning ou Deep Learning.</li>
+  <li align="justify">Ciência de Dados / Data Science: Carreira de Cientista de Dados que está relacionado a Exploração e análise de dados através de Machine Learning. Para tal, utiliza-se de conhecimentos relacionados a Ciência da Computação e a Estatística (Descritiva e Inferencial).</li>
+</ul>
+  
+
+
 
 
 
