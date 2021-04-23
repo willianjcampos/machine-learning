@@ -77,7 +77,7 @@
 <h3>Inteligência Computacional</h3>
 <p align="justify">A Inteligência Computacional, também conhecida como Inteligência Artificial, engloba várias subáreas, como a Robótica, Sistemas Multiagentes, Processamento de Linguagem Natural etc. Ao mesmo tempo que são áreas distintas, as mesmas são correlatas e se baseiam em conhecimentos e conceitos de diversas áreas, como Psicologia, Filosofia, Biologia, Estatística dentre outras.</p>
 
-<p align="center"><img src="areas-inteligencia-computacional.png" alt="Áreas da Inteligência Computacional / Inteligência Artificial" /></p>
+<p align="center"><img src="img/areas-inteligencia-computacional.png" alt="Áreas da Inteligência Computacional / Inteligência Artificial" /></p>
 
 <p align="justify">Muitos pesquisadores optam por utilizar o termo Inteligência Computacional pelo simples fato de que, o termo Inteligência Artificial não possui referências no que diz respeito ao uso do computador. Além disso, algumas revistas científicas utilizam do termo Inteligência Computacional para distinguir determinados tipos ou modalidades de trabalhos e pesquisas científicas na área.</p>
 
@@ -94,7 +94,7 @@
 
 <p align="justify">Em outras palavras, os resultados de um algoritmo de Machine Learning dependem da qualidade e quantidade de dados utilizados. As técnicas de Machine Learning são baseadas em dados que combinam conceitos de ciência da computação com estatística, probabilidade e otimização, das quais, relacionam-se com a análise de dados. Necessita de dados históricos para a criação das relações.</p>
 
-<p align="center"><img src="inteligencia-computacional-machine-learning-deep-learning.pngg" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
+<p align="center"><img src="img/inteligencia-computacional-machine-learning-deep-learning.png" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
 
 
 
@@ -102,7 +102,7 @@
 <h3>Data Science</h3>
 <p align="justify">Data Science ou Ciência de Dados é uma área interdisciplinar voltada para o estudo e análise de dados. Sejam dados econômicos, financeiros e sociais, estruturados ou não-estruturados. Visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão.</p>
 
-<p align="center"><img src="inteligencia-computacional-machine-learning-deep-learning2.png" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
+<p align="center"><img src="img/inteligencia-computacional-machine-learning-deep-learning2.png" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
 
 
 
