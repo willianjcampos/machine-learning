@@ -2,6 +2,10 @@
   <img src="img/Machine-Learning.png" alt="Machine Learning e Data Science em Python" />
 </p>
 <br />
+
+
+
+
 <ol>
   <li><a href="#sobre">Sobre os Diretórios e Estrutura</a></li>
   <li><a href="#intro">Introdução</a></li>
@@ -55,8 +59,6 @@
 
 
 
-
-
 <br />
 <h2 name="ic-ml-ds">3. Inteligência Computacional, <em>Machine Learning</em> e <em>Data Science</em></h2>
 <p align="justify">A <strong>Inteligência Computacional</strong> ou <strong>Inteligência Artificial</strong> (IA) é um campo pertencente a <em>ciência</em> e da <em>engenharia</em> que surgiu após a <strong>Segunda Guerra Mundial </strong>e é uma <strong>ramificação</strong> da <strong>Ciência da Computação</strong>.</p>
@@ -67,6 +69,40 @@
 
 <p align="center"><img src="img/teste-de-turing.jpg" alt="Teste de Turing" width="300" /></p>
 
+
+
+
+
+<br />
+<h3>Inteligência Computacional</h3>
+<p align="justify">A Inteligência Computacional, também conhecida como Inteligência Artificial, engloba várias subáreas, como a Robótica, Sistemas Multiagentes, Processamento de Linguagem Natural etc. Ao mesmo tempo que são áreas distintas, as mesmas são correlatas e se baseiam em conhecimentos e conceitos de diversas áreas, como Psicologia, Filosofia, Biologia, Estatística dentre outras.</p>
+
+<p align="center"><img src="areas-inteligencia-computacional.png" alt="Áreas da Inteligência Computacional / Inteligência Artificial" /></p>
+
+<p align="justify">Muitos pesquisadores optam por utilizar o termo Inteligência Computacional pelo simples fato de que, o termo Inteligência Artificial não possui referências no que diz respeito ao uso do computador. Além disso, algumas revistas científicas utilizam do termo Inteligência Computacional para distinguir determinados tipos ou modalidades de trabalhos e pesquisas científicas na área.</p>
+
+
+
+
+<br />
+<h3>Machine Learning</h3>
+<p align="justify">Subárea da Inteligência Computacional que proporciona métodos de análise de dados com o intuito de automatizar a construção de modelos analíticos aos sistemas computacionais. Possui a habilidade de aprender e melhorar automaticamente a partir da experiência (E) para esmerar o desempenho (P) ou realizar previsões eficientes e precisas</p>
+
+<p align="justify">Machine Learning ou Aprendizado de Máquina pode ser definido como um método computacional que utiliza experiência (E) para aumentar a performance ou desempenho (P), onde podemos definir como experiência (E) informações anteriores disponibilizadas ao algoritmo (learner), que normalmente assume a forma de dados eletrônicos coletados e disponibilizados para análise.</p>
+
+<p align="justify">Tais dados podem estar na forma de conjuntos de treinamento com identificação humana (supervisionado) ou outros tipos de informações obtidas por meio da interação com o ambiente (não supervisionado). Além disso, sua qualidade e tamanho são cruciais para as realizações das tarefas.</p>
+
+<p align="justify">Em outras palavras, os resultados de um algoritmo de Machine Learning dependem da qualidade e quantidade de dados utilizados. As técnicas de Machine Learning são baseadas em dados que combinam conceitos de ciência da computação com estatística, probabilidade e otimização, das quais, relacionam-se com a análise de dados. Necessita de dados históricos para a criação das relações.</p>
+
+<p align="center"><img src="inteligencia-computacional-machine-learning-deep-learning.pngg" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
+
+
+
+<br />
+<h3>Data Science</h3>
+<p align="justify">Data Science ou Ciência de Dados é uma área interdisciplinar voltada para o estudo e análise de dados. Sejam dados econômicos, financeiros e sociais, estruturados ou não-estruturados. Visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão.</p>
+
+<p align="center"><img src="inteligencia-computacional-machine-learning-deep-learning2.png" alt="Inteligência Artificial, Machine Learning e Data Science" /></p>
 
 
 
