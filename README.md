@@ -209,14 +209,64 @@
 
 <br />
 <h2 name="etapas-ml">7. Etapas de <em>Machine Learning</em></h2>
-<p align="justify">Parágrafo.</p>
+<p align="justify">Existem muitos <strong>processos</strong> relacionados ao <strong>Gerenciamento de Projetos</strong> destinados à <strong><em>Machine Learning</em></strong>, <strong><em>Data Science</em></strong> e <strong><em>Data Mining</em></strong>. Podemos citar como exemplo, o CRISP-DM (<em>Cross Industry Standard Process for Data Mining</em>), o SEMMA (<em>Sample, Explore, Modify, Model e Assess</em>) e o KDD (<em>Knowledge Discovery in Databases</em>).</p>
+
+<p align="justify">Durante o decorrer deste <strong>estudo</strong>, será adotado formato <strong>simplificado</strong> conforme pode-se observar na imagem abaixo.</p>
+
+<p align="center"><img src="img/etapas-machine-learning.png" alt="Etapas de Machine Learning" /></p>
+
+
+<ul>
+  <li align="justify"><strong>Dados</strong> (<em>Data Science</em>): Arquivos disponibilizados em diferentes formatos para a realização de análises preliminares.</li>
+  <li align="justify"><strong>Pré-Processamento</strong> (<em>Data Wrangling</em>): Tratamento dos dados (processos descritos no próximo módulo).</li>
+  <li align="justify"><strong>Treinamento</strong>: Submeter os dados tratados aos learner (Algoritmos de <em>Machine Learning</em>).</li>
+  <li align="justify"><strong>Avaliação</strong> (<em>Data Analysis</em>): Comparação dos resultados obtidos de cada um dos learner para a seleção do melhor método de acordo com os dados.</li>
+</ul>
 
 
 
 
 <br />
-<h2 name="tipos-ml">8. Tipos de Aprendizagem de Máquina</em></h2>
-<p align="justify">Parágrafo.</p>
+<h2 name="tipos-ml">8. Tipos de Aprendizagem de Máquina</h2>
+<p align="justify">Existem diversos <strong>métodos</strong> relacionados ao <strong>tipo de aprendizagem</strong> que um algoritmo de <em>Machine Learning</em> pode adotar. Aqui, estes estudos, será visto os métodos <strong>supervisionados</strong>, <strong>não-supervisionados</strong> e <strong>por reforço</strong>.</p>
+<p align="justify">Vale ressaltar que o objetivo não é se aprofundar, mas sim, utilizar como um guia de referência básica acerca destes assuntos.</p>
+ 
+  
+<br />
+<h3>Aprendizagem Supervisionada</h3>
+<p align="justify">Os métodos ou algoritmos de Aprendizagem Supervisionada (Supervised Learning) são algoritmos que recebem amostras de dados (dados de treinamento ou previsores) e saídas (rótulos, respostas ou classes) previamente conhecidas associadas a cada amostra de dados. Em outras palavras, todas as entradas são rotuladas.</p>
+<p align="justify">O objetivo principal é aprender a partir do mapeamento ou associação entre amostras de dados de entrada e suas respectivas saídas. A partir do treinamento, o conhecimento adquirido pode ser usado para prever uma outra saída para qualquer nova amostra de entrada desconhecida ou não vista durante o treinamento.</p>
+<p align="justify">Usados em análises preditivas, onde o objetivo principal é prever alguma resposta para dados de entrada. Os métodos ou algoritmos de Classificação (Classification) e Regressão (Regression) são algoritmos relacionados à Aprendizado Supervisionado (Supervised Learning).</p>
+
+<p align="center"><img src="img/aprendizagem-supervisionada.png" alt="Aprendizagem Supervisionada" /></p>
+
+<br />
+<h3>Aprendizagem Não-Supervisionada</h3>
+<p align="justify">Diferente dos algoritmos de aprendizado supervisionado, nos algoritmos de Aprendizado Não-Supervisionada não há saída conhecida, nem mesmo um supervisor para instruir o algoritmo. Um dos principais objetivos dos algoritmos de aprendizado não-supervisionado é desvendar a organização dos padrões existentes nos dados.</p>
+<p align="justify">Podemos citar como exemplo, as técnicas de agrupamento (clustering). Com estes agrupamentos, é possível descobrir similaridades e divergências entre os padrões existentes e assim, retirar conclusões acerca dos dados.</p>
+
+<p align="center"><img src="img/aprendizagem-nao-supervisionada.png" alt="Aprendizagem Não-Supervisionada" /></p>
+
+<h3>Aprendizagem por Reforço</h3>
+<p align="justify">Nos algoritmos de aprendizado por reforço, o algoritmo descobre, por meio de tentativa e erro, quais ações geram maiores recompensas.</p>
+<p align="justify">Geralmente, possuem 3 (três) componentes:</p>
+
+<ul>
+  <li align="justify"><strong>Agente</strong>: tomador de decisões.</li>
+  <li align="justify"><strong>Ambiente</strong>: tudo com o qual o agente interage.</li>
+  <li align="justify"><strong>Ações</strong>: o que o agente pode fazer.</li>
+</ul>
+
+<p align="justify">Seu objetivo é fazer com que o agente escolha ações que maximizem a recompensa esperada ao longo do tempo. Estes algoritmos são utilizados principalmente pela robótica.</p>
+
+<p align="center"><img src="img/aprendizagem-por-reforco.png" alt="Aprendizagem por Reforço" /></p>
+
+<p align="justify">É interessante começar os estudos e os testes nas bases de dados com algoritmos mais simples, pois podem apresentar resultados promissores. Técnicas mais complexas exigem mais processamento (custo elevado). Dependendo da base de dados, não é necessário algoritmos complexos, pois algoritmos simples podem apresentar bons resultados.</p>
+
+<p align="center"><img src="img/areas-por-aprendizagem.png" alt="Áreas por tipo de Aprendizagem" /></p>
+
+<p align="justify">Estas são as principais técnicas e algoritmos relacionadas a Machine Learning, no entanto, existem outras, como as Semi-supervised learning, Transductive inference, On-line learning e a Active learning.</p>
+
 
 
 
