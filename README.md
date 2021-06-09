@@ -202,7 +202,53 @@
 
 <br />
 <h2 name="preditivo-descritivo">6. Métodos Preditivos e Descritivos</h2>
-<p align="justify">Parágrafo.</p>
+<p align="justify">Existem vários algoritmos, técnicas e metodologias que podem ser usados para criar modelos de Machine Learning. Diferem-se nos tipos de dados de treinamento, na ordem, no método pelos quais os dados de treinamento são recebidos e nos dados de teste usados para avaliar o algoritmo.</p>
+<p align="justify">Os algoritmos categorizados como Preditivos possuem a função de prever uma saída de acordo com os dados de entrada. Geralmente, estes algoritmos estão associados a aprendizagem supervisionada, visto que existe a necessidade de se saber os rótulos de saída durante a fase de treinamento.</p>
+<p align="justify">Já os algoritmos categorizados como Descritivos possuem a função de descrever, por meio de grupos, um determinado conjunto de dados. Geralmente, estes algoritmos estão associados a aprendizagem não-supervisionado.</p>
+
+<table border="0">
+  <tr>
+    <th>Aprendizagem Supervisionada</th>
+    <th>Aprendizagem Não-Supervisionada</th>
+    <th>Aprendizagem por Reforço</th>
+  </tr>
+  
+  <tr>
+    <th><em>Métodos Preditivos</em></th>
+    <th><em>Métodos Descritivos</em></th>
+    <th><em>Causa e Efeito</em></th>
+  </tr>
+  
+  <tr>
+    <td>Classificação</td>
+    <td>Associação</td>
+    <td>Sistema Multiagentes</td>
+  </tr>
+  
+  <tr>
+    <td>Regressão</td>
+    <td>Agrupamento</td>
+    <td>-</td>
+  </tr>
+  
+  <tr>
+    <td>-</td>
+    <td>Detecção de Desvio</td>
+    <td>-</td>
+  </tr>
+  
+  <tr>
+    <td>-</td>
+    <td>Padrões Sequenciais</td>
+    <td>-</td>
+  </tr>
+  
+  <tr>
+    <td>-</td>
+    <td>Sumarização</td>
+    <td>-</td>
+  </tr>
+</table>
 
 
 
